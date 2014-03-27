@@ -9,7 +9,7 @@ You can use this script by defining the following functions in your Tumblr Blog'
         //What do you want to do if the user is logged in?
     }
 
-    function is_logged_out = function(){
+    var is_logged_out = function(){
         //What do you want to do if the user is logged out?
     }
 
